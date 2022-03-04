@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/universal_stack.dir/main.c.o CMakeFiles/universal_stack.dir/KGetLine.c.o CMakeFiles/universal_stack.dir/MyString.c.o CMakeFiles/universal_stack.dir/template_files/func_template.c.o CMakeFiles/universal_stack.dir/template_files/func.c.o  -o universal_stack 

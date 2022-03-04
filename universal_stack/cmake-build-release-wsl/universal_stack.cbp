@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="universal_stack"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="universal_stack">
+				<Option output="/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/universal_stack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/Stephan/CLionProjects/universal_stack/template files"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 universal_stack"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="universal_stack/fast">
+				<Option output="/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/universal_stack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/Stephan/CLionProjects/universal_stack/template files"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 universal_stack/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/Stephan/CLionProjects/universal_stack/KGetLine.c">
+			<Option target="universal_stack"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Stephan/CLionProjects/universal_stack/KGetLine.h">
+			<Option target="universal_stack"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Stephan/CLionProjects/universal_stack/MyString.c">
+			<Option target="universal_stack"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Stephan/CLionProjects/universal_stack/MyString.h">
+			<Option target="universal_stack"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Stephan/CLionProjects/universal_stack/main.c">
+			<Option target="universal_stack"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Stephan/CLionProjects/universal_stack/template files/func.c">
+			<Option target="universal_stack"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Stephan/CLionProjects/universal_stack/template files/func.h">
+			<Option target="universal_stack"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Stephan/CLionProjects/universal_stack/template files/func_template.c">
+			<Option target="universal_stack"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Stephan/CLionProjects/universal_stack/template files/func_template.h">
+			<Option target="universal_stack"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Stephan/CLionProjects/universal_stack/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../template files/TypesInStack.h
+
+../template files/func.h
+template.h
+../template files/template.h
+func_template.h
+../template files/func_template.h
+func_template.h
+../template files/func_template.h
+func_template.h
+../template files/func_template.h
+
+../template files/func_template.h
+TypesInStack.h
+../template files/TypesInStack.h
+template.h
+../template files/template.h
+
+../template files/template.h
+
+/mnt/c/Users/Stephan/CLionProjects/universal_stack/KGetLine.h
+
+/mnt/c/Users/Stephan/CLionProjects/universal_stack/MyString.h
+
+/mnt/c/Users/Stephan/CLionProjects/universal_stack/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+KGetLine.h
+/mnt/c/Users/Stephan/CLionProjects/universal_stack/KGetLine.h
+MyString.h
+/mnt/c/Users/Stephan/CLionProjects/universal_stack/MyString.h
+func.h
+/mnt/c/Users/Stephan/CLionProjects/universal_stack/func.h
+

@@ -1,0 +1,3 @@
+/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Stephan/CLionProjects/universal_stack/cmake-build-release-wsl/CMakeFiles/universal_stack.dir
