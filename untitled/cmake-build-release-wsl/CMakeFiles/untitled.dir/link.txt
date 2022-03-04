@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/untitled.dir/main.c.o CMakeFiles/untitled.dir/KGetLine.c.o CMakeFiles/untitled.dir/MyString.c.o CMakeFiles/untitled.dir/Stack.c.o  -o untitled 
